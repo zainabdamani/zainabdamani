@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/zainabdamani">
-<img src="https://github.com/user-attachments/assets/2f72daa2-6329-4a15-9f47-fb1fbbdb24c7" alt="Zainab Damani" /></a>
+<img src="https://github.com/user-attachments/assets/4d8b39b9-bf02-4bd0-b626-39562a26090e" alt="Zainab Damani" /></a>
 </p>
 
 <p align="center">
