@@ -113,4 +113,4 @@ Fullstack developer with a passion for backend, especially Java. Skilled in buil
 
 </p>
 
-![Snake Animation](https://github.com/zainabdamani/blob/output/github-contribution-grid.snake.svg)
+![Snake Animation](https://github.com/zainabdamani/zainabdamani/blob/output/github-contribution-grid.snake.svg)
