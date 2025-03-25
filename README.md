@@ -14,7 +14,7 @@
 <p align="left"> 
 I'm Brazilian, i'm 24 and currently i am a <strong>fullstack developer witha  huge passion for back-end development</strong>.
 
-Fullstack developer with a passion for backend, especially Java. Skilled in building scalable, secure, and high-performance solutions, while ensuring clean and appealing interfaces. Currently a Software Engineer student, delivering innovative and efficient projects both academically and professionally.
+Fullstack developer with  a passion for backend, especially Java. Skilled in building scalable, secure, and high-performance solutions, while ensuring clean and appealing interfaces. Currently a Software Engineer student, delivering innovative and efficient projects both academically and professionally.
 
 
 <h2 align="left">
